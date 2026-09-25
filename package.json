@@ -7,7 +7,7 @@
     "start": "lite-server"
   },
   "keywords": [],
-  "author": "hxst1, jlm109-ua",
+  "author": "hxst1, jimy-k4",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.6.1"
