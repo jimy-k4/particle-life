@@ -37,7 +37,7 @@ We made a graphic so its easily to understand:
 
 | Attraction | Repulsion |
 |------------|-----------|
-![Force function graphic for attraction.](https://github.com/jlm109-ua/particle-life/blob/master/info/attraction.png) | ![Force function graphic for repulsion.](https://github.com/jlm109-ua/particle-life/blob/master/info/repulsion.png)
+![Force function graphic for attraction.](info/attraction.png) | ![Force function graphic for repulsion.](info/repulsion.png)
 
 $\beta$ is a constant radius that determines the change between attraction and repulsion.
 
@@ -105,7 +105,7 @@ To set up this simulation locally, follow these steps:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/particle-life
+git clone https://github.com/jimy-k4/particle-life
 cd particle-life
 ```
 
@@ -125,4 +125,4 @@ npm start
 
 ## Configuration
 
-We created a file called [`Settings.js`](https://github.com/jlm109-ua/particle-life/blob/master/js/Settings.js) so you can modify the parameters of the simulation. These settings will show up on the web as collapsible buttons.
+We created a file called [`Settings.js`](js/Settings.js) so you can modify the parameters of the simulation. These settings will show up on the web as collapsible buttons.
